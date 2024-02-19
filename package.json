@@ -1,7 +1,7 @@
 {
-    "name": "react-native-fast-image",
-    "version": "8.6.3",
-    "description": "🚩 FastImage, performant React Native image component.",
+    "name": "@team-alocados/react-native-fast-image",
+    "version": "0.1.0",
+    "description": "React Native FastImage Component.",
     "keywords": [
         "cache",
         "cached",
@@ -9,16 +9,12 @@
         "image",
         "priority"
     ],
-    "homepage": "https://github.com/DylanVann/react-native-fast-image#readme",
-    "bugs": {
-        "url": "https://github.com/DylanVann/react-native-fast-image/issues"
-    },
+    "license": "(MIT AND Apache-2.0)",
     "repository": {
         "type": "git",
-        "url": "https://github.com/DylanVann/react-native-fast-image.git"
+        "url": "https://github.com/team-alocados/react-native-fast-image.git"
     },
-    "license": "(MIT AND Apache-2.0)",
-    "author": "Dylan Vann <dylan@dylanvann.com> (https://dylanvann.com)",
+    "author": "Alocados Nepto Team <develop@alocados.io>",
     "main": "dist/index.cjs.js",
     "module": "dist/index.js",
     "typings": "dist/index.d.ts",
